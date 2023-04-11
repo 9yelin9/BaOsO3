@@ -1,0 +1,7 @@
+Ni 2
+Nc 3
+Q 1 1 0
+Lattice lat
+
+Rho0 0 0 0
+Rho1 1 0 0
