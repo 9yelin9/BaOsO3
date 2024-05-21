@@ -1,5 +1,13 @@
-output/
-diagram/
+log/
 
-dmft/
-dmft_old/
+fig/
+data/
+input/
+output/
+
+dmft*/
+.dmft*/
+
+.ipynb_checkpoints/
+
+nohup.out

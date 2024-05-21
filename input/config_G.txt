@@ -1,7 +1,9 @@
 Ni 2
-Nc 3
 Q 1 1 1
-Lattice lat
+Lat lat
+Sym Z
 
-Rho0 0 0 0
-Rho1 1 0 0
+begin unfold
+0 0 0
+1 0 0
+end unfold
