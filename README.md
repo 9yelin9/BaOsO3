@@ -1,2 +1,2 @@
-# baoso3
+# BaOsO3
 BaOsO3
